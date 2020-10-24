@@ -1,3 +1,3 @@
 class User < ApplicationRecord
-    has_many :desstinations
+    has_many: desstinations
 end
