@@ -6,4 +6,4 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-destination = Destination.create(name: "Colorado Springs", city: "Colorado Springs", state: "CO", comment: "I love this place", travel_time: "15 hours")
+destinationone = Destination.create(name: "Colorado Springs", city: "Colorado Springs", state: "CO", comment: "I love this place", travel_time: "15 hours")

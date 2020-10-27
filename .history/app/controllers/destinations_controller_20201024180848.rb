@@ -7,7 +7,6 @@ class DestinationsController < ApplicationController
 
     def new 
         @destination = Destination.new
-        render json: @destination
     end
 
     def create 

@@ -1,3 +1,3 @@
 class DestinationsSerializer < ActiveModel::Serializer
-  attributes :name, :city, :state, :comment, :id
+  attributes :name, :city, :state, :comment
 end
