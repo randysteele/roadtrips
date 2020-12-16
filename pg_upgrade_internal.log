@@ -1,0 +1,15 @@
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 15 13:16:48 2020
+-----------------------------------------------------------------
+
+check for "/usr/local/Cellar/postgresql/9.2.0/bin" failed: No such file or directory
+
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Dec 15 13:17:20 2020
+-----------------------------------------------------------------
+
+Performing Consistency Checks
+-----------------------------
+Checking cluster versions                                   Old cluster data and binary directories are from different major versions.
